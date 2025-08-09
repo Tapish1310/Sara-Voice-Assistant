@@ -1,0 +1,23 @@
+# Voice Recognition & TTS
+speechrecognition
+pyttsx3
+
+# Keyboard/Mouse Automation
+pyautogui
+psutil
+
+# Language Detection
+langdetect
+
+# Image Handling for GUI
+Pillow
+
+# Web/API Requests
+requests
+
+# Finance Data
+yfinance
+
+# Web Scraping (Optional future use)
+beautifulsoup4
+lxml
